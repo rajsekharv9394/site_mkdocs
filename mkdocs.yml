@@ -1,5 +1,5 @@
 ## Préambule
-site_name: My Docs
+site_name: My web site
 site_description: a site about stg.
 site_author: Raj
 
@@ -10,6 +10,7 @@ theme:
 ## Architecture
 nav:
   - Home: index.md
+  - Cheat-Sheet: cheat_sheet.md
 
 
 ## Extensions
