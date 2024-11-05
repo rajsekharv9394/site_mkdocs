@@ -1,0 +1,15 @@
+## Préambule
+site_name: My Docs
+site_description: a site about stg.
+site_author: Raj
+
+theme:
+  name: readthedocs # mkdocs
+
+
+## Architecture
+nav:
+  - Home: index.md
+
+
+## Extensions
